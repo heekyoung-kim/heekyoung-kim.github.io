@@ -20,7 +20,7 @@ title                    : "오늘도 개발공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hee-Kyoung"
-description              : "An amazing website."
+description              : "오늘도 개발 공부 중:p / spring-boot, jpa, vue.js, java, js, oracle"
 url                      : "https://heekyoung-kim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
